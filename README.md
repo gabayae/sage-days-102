@@ -1,2 +1,2 @@
 # sage-days-102
-Teaching materials for a software carpentry and sage days workshop at University of Ibadan. Most of the things here materials used to teach SageMath.
+Teaching materials for a software carpentry and Sage days workshop at University of Ibadan. Most of the things here materials used to teach SageMath and students should have access to all files.
